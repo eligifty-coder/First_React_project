@@ -1,0 +1,10 @@
+.Recipes {
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   padding-bottom: 15px;
+}
+
+.Recipe img {
+   object-fit: cover;
+}

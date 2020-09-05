@@ -1,0 +1,18 @@
+.Search_form {
+   min-height: 10vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.Search_form .Search_bar {
+   width: 50%;
+   border: none;
+   padding: 10px;
+   outline: none;
+}
+.Search_form button{
+   background: lightcoral;
+   border: none;
+   padding: 10px 20px;
+   color: #fff;
+}

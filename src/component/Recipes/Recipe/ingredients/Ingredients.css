@@ -1,0 +1,6 @@
+.List{
+   display: grid;
+   grid-template-columns: 1fr;
+   justify-self: center;
+   align-content: center;
+}
